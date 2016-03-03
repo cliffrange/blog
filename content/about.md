@@ -5,6 +5,6 @@ title = "about"
 
 +++
 
-## A coder
+## A company
 
 cliffrange ftw!
