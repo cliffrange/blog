@@ -6,5 +6,5 @@ title = "about"
 +++
 
 ## A company
-dsf
+
 cliffrange ftw!
