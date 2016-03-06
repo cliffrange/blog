@@ -7,4 +7,4 @@ title = "about"
 
 ## A company
 
-cliffrange ftw! nananana
+cliffrange ftw! nananana yeah!
